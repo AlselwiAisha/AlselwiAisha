@@ -15,7 +15,7 @@
   <h1>Hi there 👋, I’m Aisha</h1>
   <h3>A software developer.<h3>
    
-<p> I now study in <a href="https://www.microverse.org/">Microverse</a>, a top-tier remote software development school that emphasizes real-world projects and pair programming. </p>
+<p>Front-end designer & a math teacher who loves solving complex equations and now I study in <a href="https://www.microverse.org/">Microverse</a>. This top-tier remote software development school emphasizes real-world projects and pair programming. </p>
     
 </div>
 
