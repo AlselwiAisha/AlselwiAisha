@@ -1,6 +1,7 @@
-<p> <img  src="https://images.prismic.io//intuzwebsite/d394de11-2b7f-4a72-a3e0-c876f7356a40_Main.png?w=1200&q=80&auto=format,compress&fm=png8" alt="image1" /> </p>
-
 <div align="center">
+ <p> <img   src="https://images.prismic.io//intuzwebsite/d394de11-2b7f-4a72-a3e0-c876f7356a40_Main.png?w=1000&h=400&q=80&auto=format,compress&fm=png8" alt="image1" /> </p>
+
+
 
 <!-- ## 🌐 Socials -->
 
